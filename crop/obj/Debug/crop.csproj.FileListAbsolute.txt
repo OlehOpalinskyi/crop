@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\crop\crop\bin\Debug\crop.exe.config
+C:\Users\Asus\source\repos\crop\crop\bin\Debug\crop.exe
+C:\Users\Asus\source\repos\crop\crop\bin\Debug\crop.pdb
+C:\Users\Asus\source\repos\crop\crop\obj\Debug\crop.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\crop\crop\obj\Debug\crop.exe
+C:\Users\Asus\source\repos\crop\crop\obj\Debug\crop.pdb
+C:\Users\Asus\source\repos\crop\crop\obj\Debug\crop.csprojResolveAssemblyReference.cache
